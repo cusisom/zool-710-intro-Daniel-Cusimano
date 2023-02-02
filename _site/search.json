@@ -7,6 +7,20 @@
     "text": "This site will hopefully develop some degree of structure. Verdict is still out."
   },
   {
+    "objectID": "Bebop-Paleo/about.html",
+    "href": "Bebop-Paleo/about.html",
+    "title": "About",
+    "section": "",
+    "text": "This site will hopefully develop some degree of structure. Verdict is still out."
+  },
+  {
+    "objectID": "Bebop-Paleo/index.html",
+    "href": "Bebop-Paleo/index.html",
+    "title": "Bebop Paleo",
+    "section": "",
+    "text": "Welcome to Bebop Paleo. This site will act as my hub for storing and displaying information pertaining to my dissertation work in Paleoanthropology.\nI am learning about rmarkdown (Xie et al., 2018)\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\n\nReferences\n\nXie, Y., Allaire, J.J., Grolemund, G., 2018. R markdown: The definitive guide. Chapman; Hall/CRC, Boca Raton, Florida."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Bebop Paleo",
