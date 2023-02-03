@@ -2,4 +2,7 @@
 title: "About"
 ---
 
-This site will hopefully develop some degree of structure. Verdict is still out. 
+
+![Photo from my first lab season at the National Museum of Ethiopia in Addis Ababa.](Addis 1.jpg){fig-align="left" width=50%}
+
+My name is Daniel (Danny) Cusimano. I grew up in Southern California, sterotypically spending much of my youth at the beach. I moved to the Bay Area when I was accepted into the Anthropology program at Sonoma State University. It was here that I developed my interest in Human Osteology and Paleoanthropology.  

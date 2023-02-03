@@ -1,10 +1,15 @@
 project:
   type: website
+  
+  output-dir: docs
 
 website:
   title: "Bebop-Paleo"
   navbar:
-    left:
+    title: "Daniel Cusimano"
+    background: orange
+    foreground: black
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
