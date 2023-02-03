@@ -13,7 +13,7 @@ I am learning about rmarkdown [@rmarkdown2018]
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ::: {layout-ncol=2}
-![Map of East Asian Late Middle Pleistocene Localities (~350-70 ka). The locality names can be found in the paper linked on my About page.](Chapter 4 map_FM1.png){width=65%}
+![Map of East Asian Late Middle Pleistocene Localities (~350-70 ka).](Chapter 4 map_FM1.png){width=65%}
 
 ![The Dali skull represents a classic Archaic hominin specimen from East Asia, dating between 267-258 ka. It comes from the site of Dali represented by the number one on the map to the left. There is current debate about it's species status. ](Dali_Man_Skull,_Replica.jpg){width=55%}
 :::
