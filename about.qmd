@@ -1,8 +1,18 @@
 ---
 title: "About"
+bibliography: my-refs.bib
+csl: journal-of-human-evolution.csl
 ---
 
 
 ![Photo from my first lab season at the National Museum of Ethiopia in Addis Ababa.](Addis 1.jpg){fig-align="left" width=50%}
 
-My name is Daniel (Danny) Cusimano. I grew up in Southern California, sterotypically spending much of my youth at the beach. I moved to the Bay Area when I was accepted into the Anthropology program at Sonoma State University. It was here that I developed my interest in Human Osteology and Paleoanthropology.  
+My name is Daniel (Danny) Cusimano. I grew up in Southern California, sterotypically spending much of my youth at the beach. I moved to the Bay Area when I was accepted into the Anthropology program at Sonoma State University. It was there that I developed my interest in Human Osteology and Paleoanthropology.  
+
+While pursuing my undergraduate degree, I worked at an African Wildlife Preserve in Santa Rosa, CA (check out my hat in the above photo). In addition to developing the facility's curriculum regarding evolution and the adaptations represented by the Safari West collection, I was allowed to build my own lab focused on Vertebrate Osteology. 
+
+After graduation, I was brought on to my undergraduate advisor's bioarchaeological research focusing on populations from Bahrain and modern day Palestine [@boutin2014life]. I was additionally given the opportunity to work in the Phoebe A. Hearst Museum of Anthropology at UC Berkeley sorting comingled human remains under the tutelage of Dr. Socorro Baez-Molgado.
+
+I enrolled in the Master's program in Anthropology at CSU East Bay to work under Dr. Henry Gilbert in 2013. Having met Dr. Gilbert before through my connections at the Hearst Museum, we had previously discussed his work focusing on Middle Plesitocene hominins in the Afar region of Ethiopia. With my background in Paleoanthropology and African Vertebrate Osteology, I was encouraged to study with him and eventually join the Kesem-Kebena and Dulecha Project in Ethiopia which I am still a part of today. My thesis research at CSUEB culminated with an experiment and paper on equifinality in bone modification studies, specifically testing expectations of Trampling Modification and the potential for it's misidentification as evidence of hominin induced butchery [@cusimano2015trampling]. 
+
+Currently, I am pursuing my PhD in Anthropology at University of Hawai'i Manoa. Working under the guidance of Dr. Christopher Bae, my research is focused on disentangling hominin variation from hominin diversity in the late Middle Pleistocene. This research is regionally focused on East Asia but should have wider implications that impact our understanding of hominin diversity across the Old World. 
